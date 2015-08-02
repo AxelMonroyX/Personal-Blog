@@ -1,0 +1,13 @@
+{
+	"name": "Blog",
+	"version": "0.0.1",
+	"description": "My minimalistic blog",
+	"dependencies": {
+		"jade": "~1.11.0",
+		"express": "~4.13.2"
+	},
+	"autor": {
+		"name": "Axel Monroy",
+		"email": "xaxelmonroyx@gmail.com"
+	}
+}
